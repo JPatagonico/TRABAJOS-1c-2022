@@ -1,4 +1,4 @@
-# Listado de trabajos a entregar WEB 1 2C
+# Listado de trabajos a entregar WEB 1 2C 🤯
 
 1- TP 1 - Trabajo de investigación de las tecnologías **HTML - CSS - Javascript**
 
