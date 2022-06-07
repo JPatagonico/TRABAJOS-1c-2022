@@ -27,8 +27,10 @@
 
 6- Cajas: dua lipa - div anidados - div con display flex / justify-content
 
-7- Pizzería: formulario de pedido de pizzas
+7- Pizzería: Trabajo con formulario de pedido de pizzas: input - textarea - select
 
-8- Grilla de Bootstrap: contrucci
+8- Grilla de Bootstrap: contrucción de layout. Usamos clas clases container, container-fluid
+
+9- Ingreso al campus: contrucción de layout. Con forulario.
 
 
