@@ -23,4 +23,12 @@
 
 4- TP Provincia 
 
+5- TP Playlist
+
+6- Cajas: dua lipa - div anidados - div con display flex / justify-content
+
+7- Pizzería: formulario de pedido de pizzas
+
+8- Grilla de Bootstrap: contrucci
+
 
