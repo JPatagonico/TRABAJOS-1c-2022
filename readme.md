@@ -31,6 +31,8 @@
 
 8- Grilla de Bootstrap: contrucción de layout. Usamos clas clases container, container-fluid
 
-9- Ingreso al campus: contrucción de layout. Con forulario.
+9- Ingreso al campus: contrucción de layout. Con formulario.
+
+10- Pomodoro de boostrap basado en https://pomofocus.io/
 
 
