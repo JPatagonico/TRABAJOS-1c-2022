@@ -33,7 +33,7 @@
 
 9- Ingreso al campus: contrucción de layout. Con formulario.
 
-10- Panadería 1. Hacer un layout con bootstrap similar a bootstrap-ejercicio.jpg y bootstrap-ejercicio-1.jpg
+10- Panadería 1 - 2. Hacer un layout con bootstrap similar a bootstrap-ejercicio.jpg y bootstrap-ejercicio-1.jpg
 
 11- TP JS 01
 
