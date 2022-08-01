@@ -33,9 +33,11 @@
 
 9- Ingreso al campus: contrucción de layout. Con formulario.
 
-10- Panadería 1 - 2. Hacer un layout con bootstrap similar a bootstrap-ejercicio.jpg y bootstrap-ejercicio-1.jpg
+10- Pomodoro de boostrap basado en https://pomofocus.io/
 
-11- TP JS 01
+11- Panadería 1 - 2. Hacer un layout con bootstrap similar a bootstrap-ejercicio.jpg y bootstrap-ejercicio-1.jpg
+
+12- TP JS 01
 
 Crear una página de bootstrap que muestre en tamaño 2em la palabra "CET Nº 30". Debe estar centrado y en color negro.
 Agregar tres botones centrados que digan: color 1 - color 2 - color 3
