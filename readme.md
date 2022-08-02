@@ -25,7 +25,7 @@
 
 5- TP Playlist
 
-6- Cajas: dua lipa - div anidados - div con display flex / justify-content
+6- Cajas: dua lipa - div anidados - div con display flex / justify-content - ALFAJORES
 
 7- Pizzería: Trabajo con formulario de pedido de pizzas: input - textarea - select
 
